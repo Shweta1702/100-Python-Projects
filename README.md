@@ -195,7 +195,5 @@ Number | Project      | Resources  | Code | Tutorial
 
 [![HitCount](http://hits.dwyl.com/natnew/natnew/100-Python-Projects.md.svg)](http://hits.dwyl.com/natnew/natnew/100-Python-Projects/edit/main/README.md) 
 
-## License
 
-See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
